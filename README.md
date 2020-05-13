@@ -3,7 +3,7 @@ Created with the help of this guide https://realpython.com/how-to-make-a-discord
 
 How to use this bot:
 
-_poll POLLNAME [option1] [option2] [...]
-_vote [option]
-_update [option] [number]
-_help - displays this message
+_poll POLLNAME [option1] [option2] [...],
+_vote [option],
+_update [option] [number],
+_help - displays this message,
