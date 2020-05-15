@@ -6,7 +6,6 @@ from dotenv import load_dotenv, find_dotenv
 
 voted = []
 options = {}
-
 HELP = "Here are the following usages of the poll bot \n _poll POLLNAME [option1] [option2] [...] \n " \
        "_display - displays a list of everyone who voted \n _update [option] [score] \n _vote [option] \n _help - displays this message"
 
